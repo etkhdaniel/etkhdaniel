@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=etkhdaniel&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=etkhdaniel&icon=0&color=2)](https://visitcount.itsvg.in)
 
 Hi 👋 My name is Eva 
 =
