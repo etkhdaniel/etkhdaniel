@@ -2,7 +2,6 @@
 
 Hi 👋 My name is Eva 
 =
-Computer Science and New Media Student at the University of Georgia
 -------------------------------------------------------------------
 
 I'm currently a 3rd year studying computer science and new media at the University of Georgia. I am especially interested in Frontend Development and Cyber Security. I am currently working as a Cyber Security Intern for the UGA CyberArch program and am also an incoming Technology Summer Analyst at Morgan Stanley in the Enterprise Technology & Services division.
