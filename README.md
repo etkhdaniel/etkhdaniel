@@ -25,7 +25,6 @@ I'm currently a 3rd year studying computer science and new media at the Universi
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=etkhdaniel&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=etkhdaniel&theme=city_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=etkhdaniel&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
