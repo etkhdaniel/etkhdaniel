@@ -2,7 +2,7 @@
 
 Hi 👋 My name is Eva 
 =
-I'm currently a 3rd year studying computer science and new media at the University of Georgia.
+I'm currently a 4th year studying computer science and new media at the University of Georgia.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evahdaniel/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@evahdaniel13) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/etkhdaniel) 
